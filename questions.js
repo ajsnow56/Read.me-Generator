@@ -1,19 +1,29 @@
 module.exports = [
     {
+        name: 'Title',
+        message: 'Name your code here.'
+    },
+    {
+        type: 'checkbox',
+        message: 'What license type will this app utilize?',
+        name: 'License',
+        choices: ['Public-CC0', 'Permissive', 'LGPL', 'GPL'],
+     },
+    {
         name: 'Description',
-        message: 'What is your name? '
+        message: 'Descrive your app or code here.'
     },
     {
         name: 'Installation',
-        message: 'Where are you from?'
+        message: 'Enter Installation requirements.'
     },
     {
         name: 'Usage',
-        message: 'What is your email?',
+        message: 'How does is work?',
     },
     {
         name: 'Contributing',
-        message: 'What is your GitHub username?',
+        message: 'Who helped made dis?',
     },
     {
         name: 'Tests',
@@ -21,11 +31,11 @@ module.exports = [
     },
     {
         name: 'Github',
-        message: 'What is your GitHub username?',
+        message: 'Enter GitHub username?',
     },
     {
         name: 'Email',
-        message: 'What is your email?',
+        message: 'Enter email?',
     },
     
     
