@@ -1,67 +1,35 @@
-# asdjf
-Public-CC0,Permissive
+# Readme.md Generator
+[![License: Apache](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+### This License
+The Apache License is a permissive free software license written by the Apache Software Foundation. It allows users to use the software for any purpose, to distribute it, to modify it, and to distribute modified versions of the software under the terms of the license, without concern for royalties.
 ## Table of Contents
 
-[Description](#Description), 
-[Installation](#installation),   
-[Usage](#Usage),
-[Contributing](#Contributing),
-[Tests](#Tests),
-[Questions](#Questions)
+[Description](#Description) [Installation](#installation) [Usage](#Usage) [Test](#Test) [Contribution](#Contribution)[Questions](#Questions)
 
 ## Description:
     
-kills it everytime
-    
+This app uses javascript to write a readme.md file based on user inputs, prompted with inquirer. The questions prompts include: Title, license, description, installation, usage and contributing. The license badge will automatically be added to the top of the readme. The user can also enter their github username and email address for contact under the questions header. 
+  ![](Assets/recording.gif)  
 ## Installation:
     
-node 
+Node.js and Inquirer are both required
     
-## Usage Information:
+## Usage:
     
-poopy
+Using node and inquirer, the user is prompted questions in the terminal after executing node index.js
     
-## Contribution Guidelines:
+## Test:
+ 
+using your terminal and node one can test for errors
+
+## Contribution:
     
-me
-    
-## Test instructions:
-    
-me
+Me Myself and I guess Tucker a little
     
 ## Questions:
-[github.com/ajsnow56](https://github.com/ajsnow56)
-me# asd
-Permissive,LGPL,GPL
-## Table of Contents
+*Follow me on Github at [github.com/ajsnow56](https://github.com/ajsnow56)
 
-[Description](#Description), 
-[Installation](#installation),   
-[Usage](#Usage),
-[Contributing](#Contributing),
-[Tests](#Tests),
-[Questions](#Questions)
+*Email me at: ajsnow56@gmail.com
 
-## Description:
-    
-asdf
-    
-## Installation:
-    
-fiudjn
-    
-## Usage Information:
-    
-asdfoiu
-    
-## Contribution Guidelines:
-    
-sdfg
-    
-## Test instructions:
-    
-sdf
-    
-## Questions:
-[github.com/ajsnow56](https://github.com/ajsnow56)
-sdf
+## User Walkthrough
+### [View video via Screencastify](https://drive.google.com/file/d/1ZIGjFxPDIgCfk5-H5c6tMRT4gwSJGGmG/view)
